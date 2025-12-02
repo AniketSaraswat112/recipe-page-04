@@ -17,8 +17,8 @@ The challenge focuses on building a clean, semantic, and responsive recipe layou
 
 ## 🔗 Links
 
-- **Solution URL:** https://github.com/<your-username>/recipe-page-component-04  
-- **Live Site URL:** https://recipe-page-component-04.netlify.app/
+- **Solution URL:** https://github.com/AniketSaraswat112/recipe-page-04.git 
+- **Live Site URL:** https://recipe-page-04.netlify.app/
 
 ---
 
